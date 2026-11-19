@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Daymark",
+    "slug": "daymark-campus-planner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "bundleIdentifier": "com.daymark.campusplanner" },
+    "android": { "package": "com.daymark.campusplanner" }
+  }
+}
